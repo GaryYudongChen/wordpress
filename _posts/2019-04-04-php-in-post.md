@@ -4,7 +4,7 @@ post_title: PHP in post
 author: admin
 post_excerpt: ""
 layout: post
-permalink: http://www.lumus.ga/?p=194
+permalink: http://www.lumus.ga/php-in-post/
 published: true
 post_date: 2019-04-04 03:15:34
 ---
