@@ -18,8 +18,16 @@ echo 'fwfwfw ';
 [/insert_php]
 
 [insert_php]
+$host = "localhost";
+$username = "root";
+$password = "FIT5120lumus";
+$dbname = "test";
+$connection = mysql_connect($host, $username, $password, $dbname);
+[/insert_php]
+
+[insert_php]
    $sql = "select * from croptype;";
-   $result = mysqli_query($conn, $sql);
+   $result = mysqli_query($connection, $sql);
    $resultCheck = mysqli_num_rows($result);
    
    if ($resultCheck >0)
