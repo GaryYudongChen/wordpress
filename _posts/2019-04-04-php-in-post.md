@@ -11,7 +11,7 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
    global $wpdb;
    $mylink = $wpdb->get_var( "SELECT ID FROM $wpdb_users WHERE user_login = 'admin'" );
-   $error = $wpdb->get_errors(); 
+
    echo $mylink;
-   echo $error;
+
 [/insert_php]
