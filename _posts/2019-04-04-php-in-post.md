@@ -11,5 +11,6 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 $a = 0.2982
 echo $a
+echo hi
 
 [/insert_php]
