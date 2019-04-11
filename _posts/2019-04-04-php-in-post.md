@@ -15,9 +15,3 @@ $mylink = $wpdb-&gt;get_var( "SELECT ID FROM $wp_users WHERE user_status = 0" );
 echo $mylink;
 
 [/insert_php]
-
-[insert_php]
-$a + $a*$a = 0.2982
-echo $a
-
-[/insert_php]
