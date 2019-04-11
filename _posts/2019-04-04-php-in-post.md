@@ -8,10 +8,10 @@ permalink: http://www.lumus.ga/php-in-post/
 published: true
 post_date: 2019-04-04 03:15:34
 ---
-[php]
+
 [cc lang="php"]
 <!--?php echo "abc"; ?-->
-[/php]
+
 [insert_php]
 #echo abc;
 #global $wpdb;
