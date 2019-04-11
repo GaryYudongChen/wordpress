@@ -18,7 +18,7 @@ echo $mylink;
 [/insert_php]
 
 <?php
-echo "aaa";
+echo aaa;
 $a + $a*$a = 0.2982;
 echo $a;
 ?>
