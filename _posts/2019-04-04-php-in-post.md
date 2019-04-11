@@ -11,21 +11,8 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 echo 'time is';
 require_once(ABSPATH . 'wp-config.php');
-$host = "http://www.lumus.ga/phpmyadmin/index.php?db=test&table=CropType&target=tbl_operations.php&token=95e7dd0635a9405e76896ae2d7ef0eba";
-$username = "root";
-$password = "FIT5120lumus";
-$dbname = "test";
-$connection = mysql_connect($host, $username, $password, $dbname);
+$connection = mysql_connect($DB_HOST, $DB_USER, $DB_PASSWORD);
+mysql_select_db($DB_NAME);
 
-   $sql = "select * from croptype;";
-   $result = mysqli_query($connection, $sql);
-   $resultCheck = mysqli_num_rows($result);
-   
-   if ($resultCheck >0)
-   {
-      while ($row = mysqli_fetch_assoc($result))
-	  {
-	     echo $row['Crop_Type'];
-	  }
-   }
+$user_count = $wpdb-get_var( "SELECT COUNT(*) FROM $wpdb-users" );   
 [/insert_php]
