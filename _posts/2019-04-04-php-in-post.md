@@ -9,9 +9,8 @@ published: true
 post_date: 2019-04-04 03:15:34
 ---
 
-
 [insert_php]
-$host = "localhost";
+require_once(ABSPATH . 'wp-config.php');
 $username = "root";
 $password = "FIT5120lumus";
 $dbname = "test";
