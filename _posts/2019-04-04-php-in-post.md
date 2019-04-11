@@ -10,7 +10,7 @@ post_date: 2019-04-04 03:15:34
 ---
 [insert_php]
    global $wpdb;
-   $mylink = $wpdb->get_var( "SELECT ID FROM $wp_users WHERE user_login = 'admin'" );
+   $mylink = $wpdb->get_var( "SELECT ID FROM $wp_users WHERE user_status = 0" );
 
    echo $mylink;
 
