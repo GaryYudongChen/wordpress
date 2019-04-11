@@ -8,12 +8,12 @@ permalink: http://www.lumus.ga/php-in-post/
 published: true
 post_date: 2019-04-04 03:15:34
 ---
+[insert_php]
 [cc lang="php"]
 
 echo abc;
 
-
-#[insert_php]
+[insert_php]
 #echo abc;
 #global $wpdb;
 #$mylink = $wpdb-&gt;get_var( "SELECT ID FROM $wp_users WHERE user_status = 0" );
