@@ -16,4 +16,4 @@ post_date: 2019-04-04 03:15:34
 #echo $mylink;
 #[/insert_php]
 
-[wbcr_php_snippet id="14984" title="test-miranda"]
+[wbcr_php_snippet id="429" title="test-miranda"]
