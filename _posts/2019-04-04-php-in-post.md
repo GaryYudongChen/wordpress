@@ -12,6 +12,6 @@ post_date: 2019-04-04 03:15:34
    global $wpdb;
    $mylink = $wpdb->get_var( "SELECT ID FROM $wp_users WHERE user_status = 0" );
 
-   echo "you are" + $mylink;
+   echo  $mylink;
 
 [/insert_php]
