@@ -11,7 +11,7 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 echo 'time is';
 require_once(ABSPATH . 'wp-config.php');
-$host = "3306";
+$host = "http://www.lumus.ga/phpmyadmin/index.php?db=test&table=CropType&target=tbl_operations.php&token=95e7dd0635a9405e76896ae2d7ef0eba";
 $username = "root";
 $password = "FIT5120lumus";
 $dbname = "test";
