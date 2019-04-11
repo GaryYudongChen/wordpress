@@ -10,7 +10,7 @@ post_date: 2019-04-04 03:15:34
 ---
 [cc lang="php"]
 <?php
-echo abc;
+echo "abc";
 ?>
 
 [insert_php]
