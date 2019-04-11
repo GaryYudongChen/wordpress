@@ -12,5 +12,5 @@ post_date: 2019-04-04 03:15:34
    global $wpdb;
    $mylink = $wpdb -> get_var( "SELECT ID FROM $wpdb_users WHERE user_login = 'admin'" );
    echo $mylink;
-   
+   echo "fuck";
 [/insert_php]
