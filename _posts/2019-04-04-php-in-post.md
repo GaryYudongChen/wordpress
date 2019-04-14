@@ -10,8 +10,7 @@ post_date: 2019-04-04 03:15:34
 ---
 [insert_php] 
 global $wpdb;
-$helloworld_id = $wpdb->get_var("SELECT ID FROM wp_posts WHERE post_name = 'u5-map'");
-echo $helloworld_id;
+
 $querystr = "SELECT ID FROM wp_posts";  
 $results = $wpdb->get_results($querystr);  
 $i=0;  
