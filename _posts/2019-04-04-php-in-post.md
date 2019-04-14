@@ -13,3 +13,6 @@ define(‘PATH’, dirname(dirname(__FILE__)).‘/’);
 require_once(PATH . ‘../wp-blog-header.php’);  
 global $wpdb;
 [/insert_php]
+[insert_php]
+echo 'time is';
+[/insert_php]
