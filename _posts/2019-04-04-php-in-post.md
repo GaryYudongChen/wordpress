@@ -12,6 +12,11 @@ post_date: 2019-04-04 03:15:34
 global $wpdb;
 $helloworld_id = $wpdb->get_var("SELECT ID FROM wp_posts WHERE post_name = 'u5-map'");
 echo $helloworld_id;
-$findID = $wpdb->get_results("SELECT ID FROM wp_posts WHERE post_name = 'about'");
-echo $findID[0]->ID;
+$querystr = "SELECT ID FROM test_table";  
+$results = $wpdb->get_results($querystr);  
+$i=0;  
+while ($i< count($results)){  
+echo $results[$i]->ID."<br />";  
+$i++;  
+} 
 [/insert_php]
