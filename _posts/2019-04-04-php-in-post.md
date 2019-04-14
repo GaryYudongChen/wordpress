@@ -13,12 +13,3 @@ define(‘PATH’, dirname(dirname(__FILE__)).‘/’);
 require_once(PATH . ‘../wp-blog-header.php’);  
 global $wpdb;
 [/insert_php]
-[insert_php]
-$querystr = "SELECT ID FROM wordpress.wp_posts";  
-$results = $wpdb->get_results($querystr);  
-$i=0;  
-while ($i< count($results)){  
-echo $results[$i]->column_1."<br />";  
-$i++;  
-}  
-[/insert_php]
