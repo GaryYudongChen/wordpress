@@ -11,11 +11,11 @@ post_date: 2019-04-04 03:15:34
 [insert_php] 
 global $wpdb;
 
-$querystr = "SELECT Export_volume FROM CropType";  
+$querystr = "SELECT Crop_Type FROM CropType";  
 $results = $wpdb->get_results($querystr);  
 $i=0;  
 while ($i< count($results)){  
-echo $results[$i]->Export_volume."<br />";  
+echo $results[$i]->Crop_Type."<br />";  
 $i++;  
 } 
 [/insert_php]
