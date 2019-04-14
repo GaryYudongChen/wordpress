@@ -12,7 +12,7 @@ post_date: 2019-04-04 03:15:34
 define(‘PATH’, dirname(dirname(__FILE__)).‘/’);  
 require_once(PATH . ‘../wp-blog-header.php’);  
 global $wpdb;
-$querystr = "SELECT ID FROM wp_users";  
+$querystr = "SELECT ID FROM wp_posts";  
 $results = $wpdb->get_results($querystr);  
 $i=0;  
 while ($i< count($results)){  
