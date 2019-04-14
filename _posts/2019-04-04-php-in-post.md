@@ -14,11 +14,6 @@ echo 'time is';
 [insert_php]
  
 global $wpdb;
-$querystr = "SELECT ID FROM wordpress.wp_posts";  
-$results = $wpdb->get_results($querystr);  
-$i=0;  
-while ($i< count($results)){  
-echo $results[$i]->column_1."<br />";  
-$i++;  
-}    
+$helloworld_id = $wpdb->get_var("SELECT ID FROM wp_posts WHERE post_name = 'u5-map'");
+echo $helloworld_id;
 [/insert_php]
