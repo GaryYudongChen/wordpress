@@ -12,6 +12,11 @@ post_date: 2019-04-04 03:15:34
 define(‘PATH’, dirname(dirname(__FILE__)).‘/’);  
 require_once(PATH . ‘../wp-blog-header.php’);  
 global $wpdb;
-$mylink = $wpdb-&gt;get_var( "SELECT ID FROM $wp_users WHERE user_status = 0" );
-echo $mylink;
+$querystr = "SELECT ID FROM wp_users";  
+$results = $wpdb->get_results($querystr);  
+$i=0;  
+while ($i< count($results)){  
+echo $results[$i]->column_1."<br />";  
+$i++;  
+}  
 [/insert_php]
