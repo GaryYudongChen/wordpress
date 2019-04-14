@@ -12,5 +12,7 @@ post_date: 2019-04-04 03:15:34
 echo 'time is';
 [/insert_php]
 [insert_php]
-echo 'time is';
+define(‘PATH’, dirname(dirname(__FILE__)).‘/’);  
+require_once(PATH . ‘../wp-blog-header.php’);  
+global $wpdb;  
 [/insert_php]
