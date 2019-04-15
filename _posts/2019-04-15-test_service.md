@@ -8,4 +8,4 @@ permalink: http://www.lumus.ga/test_service/
 published: true
 post_date: 2019-04-15 01:33:57
 ---
-[wbcr_snippet id="458"]
+echo [wbcr_snippet id="458"];
