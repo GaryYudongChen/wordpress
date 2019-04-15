@@ -15,7 +15,7 @@ $querystr= "SELECT name FROM wp_terms`";
 $result= $wpdb->get_results($querystr);  
 $i=0;  
 while ($i< count($querystr)){  
-echo $data[$i]->name."<br />";  
+echo $result[$i]->name."<br />";  
 $i++;  
 } 
 [/insert_php]
