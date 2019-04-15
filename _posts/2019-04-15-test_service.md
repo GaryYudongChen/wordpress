@@ -10,9 +10,9 @@ post_date: 2019-04-15 01:33:57
 ---
 [insert_php]
 
-[wbcr_snippet id="458"]
+//[wbcr_snippet id="458"]
 
-echo next;
+echo 'next';
 
 global $wpdb;
 $querystr = "SELECT term_id FROM wp_terms";  
