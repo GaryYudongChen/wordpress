@@ -14,7 +14,7 @@ global $wpdb;
 $querystr = "SELECT post_name FROM wp_posts";  
 $results = $wpdb->get_results($querystr);  
 $i=0;  
-while ($i< count($querystr)){  
+while ($i< count($results)){  
 echo $results[$i]->post_name."<br />";  
 $i++;  
 } 
