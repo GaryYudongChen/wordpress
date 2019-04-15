@@ -9,9 +9,8 @@ published: true
 post_date: 2019-04-15 01:33:57
 ---
 echo [wbcr_snippet id="458"];
-[cc lang="php"]
+[insert_php]
 global $wpdb;
-
 $data = "SELECT name FROM wp_terms`";  
 $show = $wpdb->get_results($data);  
 $i=0;  
@@ -19,4 +18,4 @@ while ($i< count($data)){
 echo $data[$i]->name."<br />";  
 $i++;  
 } 
-[/cc]
+[\insert_php]
