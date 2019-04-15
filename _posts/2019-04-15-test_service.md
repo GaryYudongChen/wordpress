@@ -11,10 +11,10 @@ post_date: 2019-04-15 01:33:57
 echo [wbcr_snippet id="458"];
 [insert_php]
 global $wpdb;
-$data = "SELECT name FROM wp_terms`";  
-$show = $wpdb->get_results($data);  
+$querystr= "SELECT name FROM wp_terms`";  
+$result= $wpdb->get_results($querystr);  
 $i=0;  
-while ($i< count($data)){  
+while ($i< count($querystr)){  
 echo $data[$i]->name."<br />";  
 $i++;  
 } 
