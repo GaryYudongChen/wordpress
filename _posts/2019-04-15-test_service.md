@@ -18,4 +18,4 @@ while ($i< count($data)){
 echo $data[$i]->name."<br />";  
 $i++;  
 } 
-[\insert_php]
+[/insert_php]
