@@ -10,7 +10,7 @@ post_date: 2019-04-15 01:33:57
 ---
 [insert_php]
 
-[test.php];
+[test]
 
 echo 'next';
 
