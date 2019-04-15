@@ -8,4 +8,6 @@ permalink: http://www.lumus.ga/test_service/
 published: true
 post_date: 2019-04-15 01:33:57
 ---
+[insert_php]
 [wbcr_snippet id="458"]
+[/insert_php]
