@@ -8,9 +8,11 @@ permalink: http://www.lumus.ga/test_service/
 published: true
 post_date: 2019-04-15 01:33:57
 ---
+[wbcr_php_snippet id="464"]
+
 [insert_php]
 
-[test]
+
 
 echo 'next';
 
