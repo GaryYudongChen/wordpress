@@ -11,12 +11,12 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 global $wpdb;
 
-$querystr = "SELECT ID FROM wp_posts";
-$results = $wpdb->;get_results($querystr);
+$querystr = "SELECT Season FROM Crops_Details";
+$results = $wpdb->get_results($querystr);
 $i=0;
 while ($i< count($results))
 { 
-   echo $results[$i]->ID."<br />";
+   echo $results[$i]->Season."<br />";
    $i++;
 }
 [/insert_php]
