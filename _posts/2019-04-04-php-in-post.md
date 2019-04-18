@@ -11,10 +11,10 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 global $wpdb;
 
-$querystr = "SELECT season FROM Crops_Details ";
+$querystr = "SELECT Season FROM Crops_Details ";
 $results = $wpdb-&gt;get_results($querystr);
 $i=0;
-while ($i&lt; count($results)){ echo $results[$i]-&gt;season."
+while ($i&lt; count($results)){ echo $results[$i]-&gt;Season."
 ";
 $i++;
 }
