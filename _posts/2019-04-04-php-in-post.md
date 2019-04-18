@@ -16,7 +16,7 @@ $results = $wpdb->get_results($querystr);
 $i=0;
 while ($i< count($results))
 { 
-   echo $results[$i]->poste_title."<br />";
+   echo $results[$i]-> poste_title."<br />";
    $i++;
 }
 [/insert_php]
