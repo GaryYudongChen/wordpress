@@ -14,8 +14,7 @@ global $wpdb;
 $querystr = "SELECT Season FROM Crops_Details ";
 $results = $wpdb-&gt;get_results($querystr);
 $i=0;
-while ($i&lt; count($results)){ echo $results[$i]-&gt;Season."
-";
+while ($i&lt; count($results)){ echo $results[$i]-&gt;Season.";
 $i++;
 }
 [/insert_php]
