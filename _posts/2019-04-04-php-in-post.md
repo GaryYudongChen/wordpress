@@ -10,9 +10,12 @@ post_date: 2019-04-04 03:15:34
 ---
 [insert_php]
 global $wpdb;
-
-<span class="vars">$mylink</span> = <span class="vars">$wpdb</span>-&gt;get_row(<span class="string">"SELECT * FROM $wpdb-&gt;Crops_Details WHERE Season = 'Summer'"</span>);
-
-<span class="func">echo</span> <span class="vars">$mylink</span>-&gt;<span class="string">Season</span>;
-
+$querystr = "SELECT Season FROM Crops_Details";
+$results = $wpdb->get_results($querystr);
+$i=0;
+while ($i< count($results))
+{ 
+   echo $results[$i]->Season."<br />";
+   $i++;
+}
 [/insert_php]
