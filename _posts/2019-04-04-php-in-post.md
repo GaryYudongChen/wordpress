@@ -11,12 +11,12 @@ post_date: 2019-04-04 03:15:34
 [insert_php]
 global $wpdb;
 
-$querystr = "SELECT poste_name FROM wp_posts";
+$querystr = "SELECT ID FROM wp_posts";
 $results = $wpdb->get_results($querystr);
 $i=0;
 while ($i< count($results))
 { 
-   echo $results[$i]->poste_name."<br />";
+   echo $results[$i]->ID."<br />";
    $i++;
 }
 [/insert_php]
