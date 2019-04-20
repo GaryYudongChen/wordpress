@@ -8,5 +8,5 @@ permalink: http://www.lumus.ga/predict/
 published: true
 post_date: 2019-04-20 04:05:17
 ---
-[wbcr_snippet id="514"]
+
 [wbcr_snippet id="519"]
