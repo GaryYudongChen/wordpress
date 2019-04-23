@@ -28,4 +28,4 @@ Total Agricultural Workforce
 			<a href="#" role="button">
 						Learn More
 					</a>
-										<img width="525" height="291" src="http://www.lumus.ga/wp-content/uploads/2019/04/money-2724235_1280.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/money-2724235_1280.jpg 1280w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2724235_1280-300x166.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2724235_1280-768x425.jpg 768w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2724235_1280-1024x567.jpg 1024w" sizes="100vw" />
+										<img width="525" height="350" src="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg 1024w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-300x200.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-768x512.jpg 768w" sizes="100vw" />
