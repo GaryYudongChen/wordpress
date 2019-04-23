@@ -25,7 +25,7 @@ Total Agricultural Workforce
 					</a>
 			<h3>Forecasting</h3>		
 		<p>We use predictive analysis and provide you with the best possible feedback regarding relocation, growing the most profitable crop etc.</p>		
-			<a href="#" role="button">
+			<a href="http://www.lumus.ga/forecasting/" role="button">
 						Learn More
 					</a>
 										<img width="525" height="350" src="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg 1024w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-300x200.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-768x512.jpg 768w" sizes="100vw" />
