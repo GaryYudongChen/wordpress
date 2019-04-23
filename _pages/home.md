@@ -13,7 +13,7 @@ Total Agricultural Workforce
 			<h3>Our Services</h3>		
 			<h3>Crop Information</h3>		
 		<p>Victoria has several crops. Learn about all the crops grown in the region.</p>		
-			<a href="#" role="button">
+			<a href="http://www.lumus.ga/wp-admin/post.php?post=600&amp;action=elementor" role="button">
 						Learn More  
 					</a>
 										<img width="4310" height="3235" src="http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507.jpg 4310w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-300x225.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-768x576.jpg 768w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-1024x769.jpg 1024w" sizes="100vw" />											
