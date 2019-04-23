@@ -20,7 +20,7 @@ Total Agricultural Workforce
 										<img width="4928" height="3264" src="http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610.jpg 4928w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-300x199.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-768x509.jpg 768w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-1024x678.jpg 1024w" sizes="100vw" />											
 			<h3>Market Analysis</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
-			<a href="#" role="button">
+			<a href="http://www.lumus.ga/market-analysis/" role="button">
 						Learn More
 					</a>
 			<h3>Forecasting</h3>		
