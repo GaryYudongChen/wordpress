@@ -19,7 +19,7 @@ Total Agricultural Workforce
 										<img width="4310" height="3235" src="http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507.jpg 4310w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-300x225.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-768x576.jpg 768w, http://www.lumus.ga/wp-content/uploads/2019/04/cherry-food-fresh-890507-1024x769.jpg 1024w" sizes="100vw" />											
 										<img width="4928" height="3264" src="http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610.jpg 4928w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-300x199.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-768x509.jpg 768w, http://www.lumus.ga/wp-content/uploads/2019/04/analysis-analytics-charts-669610-1024x678.jpg 1024w" sizes="100vw" />											
 			<h3>Market Analysis</h3>		
-		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+		<p>Learn and study about the global trends in crops. Compare the  production, profitability and exports of various crops grown in regional Victoria.</p>		
 			<a href="http://www.lumus.ga/market-analysis/" role="button">
 						Learn More
 					</a>
