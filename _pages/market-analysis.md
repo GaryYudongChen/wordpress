@@ -9,6 +9,6 @@ published: true
 post_date: 2019-04-23 15:15:44
 ---
 <iframe src="https://lumus.shinyapps.io/Lumus_new/" 
-        style="width: 100%; height: 1300px;">
+        style="width: 100%; height: 1500px;">
 It looks like your browser doesn't support iframes.
 </iframe>
