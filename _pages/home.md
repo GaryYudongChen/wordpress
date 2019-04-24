@@ -18,7 +18,7 @@ post_date: 2019-03-27 04:07:09
 		<p>Learn and study about the global trends in crops. Compare the production, profitability and exports of various crops grown in regional Victoria.</p>		
 			<h5><a href=" http://www.lumus.ga/market-analysis/">Learn More &gt;&gt;</a></h5>		
 										<img width="64" height="64" src="http://www.lumus.ga/wp-content/uploads/2019/04/1465236987_resolutions-16.png" alt="" />											
-			<h3>Business Budget</h3>		
+			<h3>Forecasting</h3>		
 		<p>We make use of predictive modelling techniques to provide you with the best possible suggestions regarding growing crop profitability, relocation etc.</p>		
 			<h5><a href="http://www.lumus.ga/forecasting/">Learn More &gt;&gt;</a></h5>		
 		https://www.youtube.com/watch?v=XHOmBV4js_E		
