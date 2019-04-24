@@ -8,24 +8,3 @@ permalink: http://www.lumus.ga/
 published: true
 post_date: 2019-03-27 04:07:09
 ---
-Total Agricultural Workforce
-							Farmers in regional areas
-			<h3>Our Services</h3>		
-			<h3>Crop Information</h3>		
-		<p>Victoria has several crops. Learn about all the crops grown in the region.</p>		
-			<a href="http://www.lumus.ga/crops/" role="button">
-						Learn More  
-					</a>
-										<img width="525" height="394" src="http://www.lumus.ga/wp-content/uploads/2019/04/Fruits-Resized-1024x769.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Fruits-Resized-1024x769.jpg 1024w, http://www.lumus.ga/wp-content/uploads/2019/04/Fruits-Resized-300x225.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Fruits-Resized-768x576.jpg 768w" sizes="100vw" />											
-										<img width="525" height="348" src="http://www.lumus.ga/wp-content/uploads/2019/04/Analytics-Resized-1024x678.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Analytics-Resized-1024x678.jpg 1024w, http://www.lumus.ga/wp-content/uploads/2019/04/Analytics-Resized-300x199.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Analytics-Resized-768x508.jpg 768w" sizes="100vw" />											
-			<h3>Market Analysis</h3>		
-		<p>Learn and study about the global trends in crops. Compare the  production, profitability and exports of various crops grown in regional Victoria.</p>		
-			<a href="http://www.lumus.ga/market-analysis/" role="button">
-						Learn More
-					</a>
-			<h3>Forecasting</h3>		
-		<p>We use predictive analysis and provide you with the best possible feedback regarding relocation, growing the most profitable crop etc.</p>		
-			<a href="http://www.lumus.ga/forecasting/" role="button">
-						Learn More
-					</a>
-										<img width="525" height="350" src="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-1024x683.jpg 1024w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-300x200.jpg 300w, http://www.lumus.ga/wp-content/uploads/2019/04/money-2696219_1920-768x512.jpg 768w" sizes="100vw" />
