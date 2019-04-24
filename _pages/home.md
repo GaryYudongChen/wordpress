@@ -22,6 +22,5 @@ post_date: 2019-03-27 04:07:09
 		<p>We make use of predictive modelling techniques to provide you with the best possible suggestions regarding growing crop profitability, relocation etc.</p>		
 			<h5>Learn More &gt;&gt;</h5>		
 		https://www.youtube.com/watch?v=XHOmBV4js_E		
-			<h3>Worlds of innovation</h3>		
-		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo. Nullam in lacus id lacus dictum accumsan nec id lectus. Nam eget condimm tortor. Cras eleifend viverra nibh, friilla mi port titorid. </p>		
-			<h5>Watch Now</h5>
+			<h3>Why Make the Move?</h3>		
+		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo. Nullam in lacus id lacus dictum accumsan nec id lectus. Nam eget condimm tortor. Cras eleifend viverra nibh, friilla mi port titorid. </p>
