@@ -20,7 +20,7 @@ post_date: 2019-03-27 04:07:09
 										<img width="64" height="64" src="http://www.lumus.ga/wp-content/uploads/2019/04/1465236987_resolutions-16.png" alt="" />											
 			<h3>Forecasting</h3>		
 		<p>We make use of predictive modelling techniques to provide you with the best possible suggestions regarding growing crop profitability, relocation etc.</p>		
-			<h5><a href="http://www.lumus.ga/forecasting/">Learn More &gt;&gt;</a></h5>		
+			<h5><a href="http://www.lumus.ga/predict_m/">Learn More &gt;&gt;</a></h5>		
 		https://www.youtube.com/watch?v=XHOmBV4js_E		
 			<h3>Why Make the Move?</h3>		
 		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, elit. Ut elit tellus, luctus nec mattis, pulvinar dapibus leo. Nullam in lacus id lacus dictum accumsan nec id lectus. Nam eget condimm tortor. Cras eleifend viverra nibh, friilla mi port titorid. </p>
