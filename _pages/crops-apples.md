@@ -57,15 +57,6 @@ post_date: 2019-04-24 12:44:25
 									</li>
 						</ul>
 			<a href="#" role="button">
-						References
+						Other Crops
 					</a>
-			<h3>Tiffany C. Kidwell</h3>		
-		(617) 962 8802<br>
-tiffany@yourdomain.com		
-			<h3>Joseph Waddington
-</h3>		
-		(510) 894 8525<br>
-joseph@yourdomain.com		
-			<h3>Diane Geter</h3>		
-		(513) 585 5951<br>
-diane@yourdomain.com
+				<figure><img src="http://www.lumus.ga/wp-content/uploads/elementor/thumbs/foodiesfeed.com_homemade-waffles-with-coffee-o6ulema1zph8v6vx7ulmx26bbdsi2g7660mjwwlepw.jpg" alt="dasdasd" /></figure><figure><img src="http://www.lumus.ga/wp-content/uploads/elementor/thumbs/foodiesfeed.com_traditional-czech-honey-cake-caffee-latte-o6ulelc7svfyjkxadc70ckeupzx4ur3ftvz2fmmsw4.jpg" alt="foodiesfeed.com_traditional-czech-honey-cake-caffee-latte.jpg" /></figure><figure><img src="http://www.lumus.ga/wp-content/uploads/elementor/thumbs/foodiesfeed.com_homemade-pizza-o6ulen7w6jij6suk2d09hjxrwrnva5awi5a1e6k0jo.jpg" alt="foodiesfeed.com_homemade-pizza.jpg" /></figure><figure><img src="http://www.lumus.ga/wp-content/uploads/elementor/thumbs/foodiesfeed.com_Wedding_15-o6ulen7w6jij6suk2d09hjxrwrnva5awi5a1e6k0jo.jpg" alt="foodiesfeed.com_Wedding_15.jpg" /></figure><figure><img src="http://www.lumus.ga/wp-content/uploads/elementor/thumbs/foodiesfeed.com_Your-Sunny-Side-Up-2-o6ulelc7svfyjkxadc70ckeupzx4ur3ftvz2fmmsw4.jpg" alt="foodiesfeed.com_Your-Sunny-Side-Up-2.jpg" /></figure>
