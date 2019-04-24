@@ -16,7 +16,7 @@ post_date: 2019-03-27 04:07:09
 										<img width="150" height="150" src="http://www.lumus.ga/wp-content/uploads/2019/04/Market-Cartoon-150x150.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Market-Cartoon-150x150.png 150w, http://www.lumus.ga/wp-content/uploads/2019/04/Market-Cartoon-250x250.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Market-Cartoon-100x100.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Market-Cartoon.png 256w" sizes="(max-width: 150px) 100vw, 150px" />											
 			<h3>Market Analysis</h3>		
 		<p>Learn and study about the global trends in crops. Compare the production, profitability and exports of various crops grown in regional Victoria.</p>		
-			<h5>Learn More &gt;&gt;</h5>		
+			<h5><a href=" http://www.lumus.ga/market-analysis/">Learn More &gt;&gt;</a></h5>		
 										<img width="64" height="64" src="http://www.lumus.ga/wp-content/uploads/2019/04/1465236987_resolutions-16.png" alt="" />											
 			<h3>Business Budget</h3>		
 		<p>We make use of predictive modelling techniques to provide you with the best possible suggestions regarding growing crop profitability, relocation etc.</p>		
