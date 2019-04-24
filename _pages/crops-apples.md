@@ -8,13 +8,12 @@ permalink: http://www.lumus.ga/crops/crops-apples/
 published: true
 post_date: 2019-04-24 12:44:25
 ---
-<h1>Fernando Schmidt</h1>		
-			<h4>Web Designer</h4>		
-										<img width="200" height="200" src="http://www.lumus.ga/wp-content/uploads/2019/04/Fernando.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Fernando.png 200w, http://www.lumus.ga/wp-content/uploads/2019/04/Fernando-150x150.png 150w, http://www.lumus.ga/wp-content/uploads/2019/04/Fernando-100x100.png 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+<h1>Apples</h1>		
+										<img width="300" height="264" src="http://www.lumus.ga/wp-content/uploads/2019/04/apple-300x264.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/apple-300x264.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/apple-360x316.png 360w, http://www.lumus.ga/wp-content/uploads/2019/04/apple-250x220.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/apple-100x88.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/apple.png 370w" sizes="(max-width: 300px) 100vw, 300px" />											
 			<h3>Experience</h3>		
+		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<h5>2015 - Present</h5>		
 			<h3>Teach Studio NYC</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<h5>2013 - 2015</h5>		
 			<h3>BitBox Pro</h3>		
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
