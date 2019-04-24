@@ -23,9 +23,7 @@ post_date: 2019-04-23 15:15:40
 										<img width="341" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg 341w, http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized-300x156.jpg 300w" sizes="100vw" />											
 			<h3>Pear</h3>		
 			<h2>VEGetables</h2>		
-										<img src="http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1.png" title="" alt="" />											
 			<h3>TOMATOES</h3>		
-										<img src="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_2-1.png" title="" alt="" />											
 			<h3>ONIONS</h3>		
-										<img src="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1.png" title="" alt="" />											
+										<img width="341" height="175" src="http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-Resized.jpg 341w, http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-Resized-300x154.jpg 300w" sizes="100vw" />											
 			<h3>PULSES<br></h3>
