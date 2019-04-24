@@ -18,7 +18,7 @@ post_date: 2019-04-23 15:15:40
 										<img width="342" height="176" src="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1-300x154.png 300w" sizes="100vw" />											
 			<h3>STORAGE</h3>		
 		<p> Nunc et augue pulvinar, luctus mi non, sagittis odio. non sodales orci malesu da vel. Aliquam posuere mi eros. at centum elit feugiat vel.</p>		
-			<h2>our services</h2>		
+			<h2>Fruits</h2>		
 										<img width="342" height="176" src="http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1-300x154.png 300w" sizes="100vw" />											
 			<h3>PACKING</h3>		
 		<p> Nunc et augue pulvinar, luctus mi non, sagittis odio. Phasellus congue sem nulla.non sodales orci malesu da vel. Aliquam mi eros. </p>		
@@ -28,7 +28,7 @@ post_date: 2019-04-23 15:15:40
 										<img width="342" height="176" src="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/SERVICES_3-1-300x154.png 300w" sizes="100vw" />											
 			<h3>STORAGE</h3>		
 		<p> Nunc et augue pulvinar, luctus mi non, sagittis odio. non sodales orci malesu da vel. Aliquam posuere mi eros. at centum elit feugiat vel.</p>		
-			<h2>our services</h2>		
+			<h2>VEGetables</h2>		
 										<img width="342" height="176" src="http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/SEVICES_1-1-300x154.png 300w" sizes="100vw" />											
 			<h3>PACKING</h3>		
 		<p> Nunc et augue pulvinar, luctus mi non, sagittis odio. Phasellus congue sem nulla.non sodales orci malesu da vel. Aliquam mi eros. </p>		
