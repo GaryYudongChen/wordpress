@@ -10,25 +10,23 @@ post_date: 2019-04-25 01:20:03
 ---
 <h1>WHEat</h1>		
 										<img width="300" height="274" src="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-250x228.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-100x91.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background.png 347w" sizes="(max-width: 300px) 100vw, 300px" />											
-			<h3>About</h3>		
-		<p>Wheat is one of Australia’s major crops and Victoria has over 1.5 million hectares dedicated to the cultivation of the crop. Farmers believe that the framework for all winter crop production in Victoria is based on the principles and practice of successful wheat farming.</p>		
-			<h5>2015 - Present</h5>		
-			<h3>Teach Studio NYC</h3>		
-			<h5>2013 - 2015</h5>		
-			<h3>BitBox Pro</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h5>2010 - 2013</h5>		
-			<h3>Freelance</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h3>About Me</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
+			<h3>ABOUT</h3>		
+		<p style="text-align: left;">Wheat is one of Australia’s major crops and Victoria has over 1.5 million hectares dedicated to the cultivation of the crop. Farmers believe that the framework for all winter crop production in Victoria is based on the principles and practice of successful wheat farming.</p>		
+			<h3>VARIETIES</h3>		
+		<ol><li style="text-indent: -0.25in; text-align: left;">    Australian Hard </li><li style="text-indent: -0.25in; text-align: left;">    Australian Premium White </li><li style="text-indent: -0.25in; text-align: left;">      Australian Standard White</li><li style="text-indent: -0.25in; text-align: left;">    Australian Premium Durum </li><li style="text-indent: -0.25in; text-align: left;">      Australian Standard Noodle</li><li style="text-indent: -0.25in; text-align: left;">      Australian Premium Noodle</li><li style="text-indent: -0.25in; text-align: left;">    Australian Soft Feed</li></ol>		
+			<h3>CROP MANAGEMENT</h3>		
+			<h3>Soil Type & Suitability</h3>		
+		<p style="margin: 0in 0in 0.0001pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; text-align: left;">It is adapted to a wide range of soil types but highest yield is on well drained soils with a surface and sub-surface soil pH<sub style="outline: 0px;">(CaCl)</sub> of 45 or higher. However, varieties vary in their ability to tolerate low pH and aluminium toxicity.</p><p style="text-align: left;"> </p><p style="margin: 0in 0in 15pt; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; outline: 0px; text-align: start;">Crops sown early can develop roots down to a depth of two meters and so the moisture and quality of the sub-soil can be important. Some varieties can tolerate short periods of waterlogging, although this may reduce production.</p>		
+			<h3>Climatic Conditions</h3>		
+		<p style="background: white; margin: 0in 0in 15pt; text-align: left;">A suitable rainfall event is required for sowing as rainfall just before, and during the growing season is the main contributing source of water for a crop. Water stored in the soil at the time of sowing, from pre-season rainfall, is also an important available water source and so rainfall patterns are an essential consideration for production. However, in some areas irrigation is used to supplement rainfall.</p><p style="background: white; box-sizing: border-box; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; margin: 0in 0in 15pt; text-align: left;">Wheat germination requires temperatures ideally between 12°C and 25°C, however germination will still occur between 4°C and 37°C. Germination will occur more quickly with consecutive warm days.</p>		
+			<h3>Seeding Rate</h3>		
+		<p style="text-align: left;">To achieve total ground cover and establish the foundation for maximum yield, a crop density of 150-200 plants per square metre is needed. This equates to a seeding rate of about 60kg/ha in lower rainfall zones (up to 400mm annual rainfall) and about 80-90kg/ha in the higher rainfall zones.</p>		
 			<h3>Varieties</h3>		
-			<h5>2011</h5>		
 			<h3>Print2Digital Course</h3>		
 			<h5>2009</h5>		
 			<h3>Royal College of Art
 </h3>		
-			<h2><b>Protein</b></h2>		
+			<h2><b>Protein %</b></h2>		
 						Australian Prime Hard
 									13%
 						Australian Standard Noodle
