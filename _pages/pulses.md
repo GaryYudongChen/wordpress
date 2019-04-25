@@ -9,7 +9,7 @@ published: true
 post_date: 2019-04-25 01:04:22
 ---
 <h1>Pulses</h1>		
-										<img width="300" height="269" src="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-300x269.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-300x269.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-250x224.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-100x90.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized.png 350w" sizes="(max-width: 300px) 100vw, 300px" />											
+										<img width="300" height="282" src="http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-300x282.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-300x282.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-250x235.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Pulses-100x94.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Pulses.png 324w" sizes="(max-width: 300px) 100vw, 300px" />											
 			<h3>Experience</h3>		
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<h5>2015 - Present</h5>		
