@@ -25,7 +25,7 @@ post_date: 2019-04-25 01:20:03
 		<ul><li>Potassium (K): The critical range for Colwell K is 32-52mg/kg for sandy soils, 45-52mg/kg for sandy loams and 35-45mg/kg for duplex soils. Top dressing can generally correct a deficiency in the crop.</li><li>Phosphorus (P): Check soils P status as maintenance rates at seeding may only be required.</li><li>Nitrogen (N): Develop the nitrogen strategy by considering the crops potential yield, soil test results and other rotational, soil type and rainfall information. Nitrogen can be applied upfront at seeding (separated from the seed) or split with post emergence applications.</li><li>Micro nutrients: Monitor the crop within the season and tissue test to identify deficiencies to micro nutrients.</li></ul>		
 			<h3>DiSeases</h3>		
 		<p style="text-align: left;">Some of the main pests and diseases responsible for the majority of losses in wheat production in Australia include: yellow leaf spot; stripe rust; septoria nodorum blotch; crown rot; and <i>Pratylenchus neglectus</i>. Other diseases include Rhizoctonia barepatch, cereal cyst nematode, <i>Pratylenchus thornii</i>., common bunt,  stem rust, leaf rust, barley yellow dwarf virus, and wheat streak mosaic virus.</p>		
-			<h2><b>Protein %</b></h2>		
+			<h2><b>Protein % in Different Wheat Varieties</b></h2>		
 						Australian Prime Hard
 									13%
 						Australian Standard Noodle
