@@ -24,18 +24,7 @@ post_date: 2019-04-24 12:44:25
 			<h3>Nutrition</h3>		
 		<ul><li style="text-align: left;">Potassium (K): The critical range for Colwell K is 32-52mg/kg for sandy soils, 45-52mg/kg for sandy loams and 35-45mg/kg for duplex soils. Top dressing can generally correct a deficiency in the crop.</li><li>Phosphorus (P): Check soils P status as maintenance rates at seeding may only be required.</li><li>Nitrogen (N): Develop the nitrogen strategy by considering the crops potential yield, soil test results and other rotational, soil type and rainfall information. Nitrogen can be applied upfront at seeding (separated from the seed) or split with post emergence applications.</li><li>Micro nutrients: Monitor the crop within the season and tissue test to identify deficiencies to micro nutrients.</li></ul>		
 			<h3>DiSeases</h3>		
-		<p style="text-align: left;">Some of the main pests and diseases responsible for the majority of losses in wheat production in Australia include: yellow leaf spot; stripe rust; septoria nodorum blotch; crown rot; and <i>Pratylenchus neglectus</i>. Other diseases include Rhizoctonia barepatch, cereal cyst nematode, <i>Pratylenchus thornii</i>., common bunt,  stem rust, leaf rust, barley yellow dwarf virus, and wheat streak mosaic virus.</p>		
-			<h2><b>Protein % in Different Wheat Varieties</b></h2>		
-						Australian Prime Hard
-									13%
-						Australian Standard Noodle
-									11%
-						Australian Premium Noodle
-									12%
-						Australian Premium White
-									10%
-						Australian Soft Feed
-									9%
+		<ol><li><strong>Apple Scab  </strong>Apple scab is present throughout Victoria, but is most serious in districts with high rainfall especially during spring. The disease can reduce the quality and size of fruit. It can also cause premature fruit drop, defoliation and poor development of fruit buds in the next season. Under favorable conditions and where control measures are not applied, total crop failure can occur.</li><li><strong>Armillaria root rot: </strong>Armillaria root rot, also known as the honey toadstool or bootlace fungus, is a widespread and often destructive disease that can affect an extremely wide range of plants.<p>The main sources of infection in orchards are infected, dying trees within the orchard, or dead stumps or root pieces persisting in the ground from an earlier planting that was infected with the disease, or from the original vegetation.</p></li><li><strong>Fire Blight:</strong> Fire blight is a bacterial disease for which there is no single effective treatment.<p>Plants can become infected:</p><ul><li>through blossoms where the bacteria is transported by bees during pollination</li><li>through surface injuries caused by insect feeding, hail or mechanical damage.</li></ul></li></ol>		
 			<a href="#" role="button">
 						Other Crops
 					</a>
