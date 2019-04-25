@@ -21,11 +21,7 @@ post_date: 2019-04-25 01:20:03
 		<p style="background: white; margin: 0in 0in 15pt; text-align: left;">A suitable rainfall event is required for sowing as rainfall just before, and during the growing season is the main contributing source of water for a crop. Water stored in the soil at the time of sowing, from pre-season rainfall, is also an important available water source and so rainfall patterns are an essential consideration for production. However, in some areas irrigation is used to supplement rainfall.</p><p style="background: white; box-sizing: border-box; outline: 0px; font-variant-ligatures: normal; font-variant-caps: normal; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; word-spacing: 0px; margin: 0in 0in 15pt; text-align: left;">Wheat germination requires temperatures ideally between 12°C and 25°C, however germination will still occur between 4°C and 37°C. Germination will occur more quickly with consecutive warm days.</p>		
 			<h3>Seeding Rate</h3>		
 		<p style="text-align: left;">To achieve total ground cover and establish the foundation for maximum yield, a crop density of 150-200 plants per square metre is needed. This equates to a seeding rate of about 60kg/ha in lower rainfall zones (up to 400mm annual rainfall) and about 80-90kg/ha in the higher rainfall zones.</p>		
-			<h3>Varieties</h3>		
-			<h3>Print2Digital Course</h3>		
-			<h5>2009</h5>		
-			<h3>Royal College of Art
-</h3>		
+			<h3>Nutrition</h3>		
 			<h2><b>Protein %</b></h2>		
 						Australian Prime Hard
 									13%
