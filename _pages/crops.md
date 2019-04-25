@@ -25,8 +25,9 @@ post_date: 2019-04-23 15:15:40
 											<a href="http://www.lumus.ga/crops/oranges/" data-elementor-open-lightbox="">
 							<img width="339" height="176" src="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-Resized.jpg 339w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-Resized-300x156.jpg 300w" sizes="(max-width: 339px) 100vw, 339px" />								</a>
 			<h3><a href="http://www.lumus.ga/crops/oranges/">Orange</a></h3>		
-										<img width="341" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg 341w, http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized-300x156.jpg 300w" sizes="(max-width: 341px) 100vw, 341px" />											
-			<h3>Pear</h3>		
+											<a href="http://www.lumus.ga/crops/pears/" data-elementor-open-lightbox="">
+							<img width="341" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized.jpg 341w, http://www.lumus.ga/wp-content/uploads/2019/04/Pears-resized-300x156.jpg 300w" sizes="(max-width: 341px) 100vw, 341px" />								</a>
+			<h3><a href="http://www.lumus.ga/crops/pears/">Pear</a></h3>		
 			<h2>VEGetables</h2>		
 										<img width="340" height="178" src="http://www.lumus.ga/wp-content/uploads/2019/04/Tomatoes-Resized-1.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Tomatoes-Resized-1.jpg 340w, http://www.lumus.ga/wp-content/uploads/2019/04/Tomatoes-Resized-1-300x157.jpg 300w" sizes="(max-width: 340px) 100vw, 340px" />											
 			<h3>TOMATOES</h3>		
