@@ -22,6 +22,7 @@ post_date: 2019-04-25 01:20:03
 			<h3>Seeding Rate</h3>		
 		<p style="text-align: left;">To achieve total ground cover and establish the foundation for maximum yield, a crop density of 150-200 plants per square metre is needed. This equates to a seeding rate of about 60kg/ha in lower rainfall zones (up to 400mm annual rainfall) and about 80-90kg/ha in the higher rainfall zones.</p>		
 			<h3>Nutrition</h3>		
+		<ul><li>Potassium (K): The critical range for Colwell K is 32-52mg/kg for sandy soils, 45-52mg/kg for sandy loams and 35-45mg/kg for duplex soils. Top dressing can generally correct a deficiency in the crop.</li><li>Phosphorus (P): Check soils P status as maintenance rates at seeding may only be required.</li><li>Nitrogen (N): Develop the nitrogen strategy by considering the crops potential yield, soil test results and other rotational, soil type and rainfall information. Nitrogen can be applied upfront at seeding (separated from the seed) or split with post emergence applications.</li><li>Micro nutrients: Monitor the crop within the season and tissue test to identify deficiencies to micro nutrients.</li></ul>		
 			<h2><b>Protein %</b></h2>		
 						Australian Prime Hard
 									13%
