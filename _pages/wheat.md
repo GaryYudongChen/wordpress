@@ -10,8 +10,8 @@ post_date: 2019-04-25 01:20:03
 ---
 <h1>WHEat</h1>		
 										<img width="300" height="274" src="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-250x228.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-100x91.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background.png 347w" sizes="(max-width: 300px) 100vw, 300px" />											
-			<h3>VICTORIAN WHeat</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
+			<h3>About</h3>		
+		<p>Wheat is one of Australia’s major crops and Victorian has over 1.5 million hectares dedicated to the cultivation of the crop. The framework for all winter crop production in Victoria is based on the principles and practice of successful wheat farming</p>		
 			<h5>2015 - Present</h5>		
 			<h3>Teach Studio NYC</h3>		
 			<h5>2013 - 2015</h5>		
@@ -22,25 +22,23 @@ post_date: 2019-04-25 01:20:03
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
 			<h3>About Me</h3>		
 		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h3>Education</h3>		
-			<h5>2012</h5>		
 			<h3>UI & UX Course</h3>		
 			<h5>2011</h5>		
 			<h3>Print2Digital Course</h3>		
 			<h5>2009</h5>		
 			<h3>Royal College of Art
 </h3>		
-			<h3>Skills</h3>		
-				Photoshop
-									89%
-				WordPress
-									61%
-				Illustrator
-									71%
-				InDesign
-									50%
-				Html & CSS
-									85%
+			<h2><b>Protein</b></h2>		
+						Australian Prime Hard
+									13%
+						Australian Standard Noodle
+									11%
+						Australian Premium Noodle
+									12%
+						Australian Premium White
+									10%
+						Australian Soft Feed
+									9%
 			<h3>Contact</h3>		
 					<ul>
 							<li >
