@@ -12,10 +12,12 @@ post_date: 2019-04-23 15:15:40
 											<a href="http://www.lumus.ga/crops/wheat/ " data-elementor-open-lightbox="">
 							<img width="341" height="173" src="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-Resized.jpg 341w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-Resized-300x152.jpg 300w" sizes="(max-width: 341px) 100vw, 341px" />								</a>
 			<h3><a href="http://www.lumus.ga/crops/wheat/ ">Wheat</a></h3>		
-										<img width="342" height="175" src="http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized-300x154.png 300w" sizes="(max-width: 342px) 100vw, 342px" />											
-			<h3>Barley</h3>		
-										<img width="342" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized.jpg 342w, http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized-300x155.jpg 300w" sizes="(max-width: 342px) 100vw, 342px" />											
-			<h3>Oats</h3>		
+											<a href="http://www.lumus.ga/crops/barley/ " data-elementor-open-lightbox="">
+							<img width="342" height="175" src="http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized.png 342w, http://www.lumus.ga/wp-content/uploads/2019/04/Barley-Resized-300x154.png 300w" sizes="(max-width: 342px) 100vw, 342px" />								</a>
+			<h3><a href="http://www.lumus.ga/crops/barley/ ">Barley</a></h3>		
+											<a href=" http://www.lumus.ga/crops/oats/" data-elementor-open-lightbox="">
+							<img width="342" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized.jpg 342w, http://www.lumus.ga/wp-content/uploads/2019/04/Oats-Resized-300x155.jpg 300w" sizes="(max-width: 342px) 100vw, 342px" />								</a>
+			<h3><a href=" http://www.lumus.ga/crops/oats/">Oats</a></h3>		
 			<h2>Fruits</h2>		
 										<img width="342" height="177" src="http://www.lumus.ga/wp-content/uploads/2019/04/Apples-Resized.jpg" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Apples-Resized.jpg 342w, http://www.lumus.ga/wp-content/uploads/2019/04/Apples-Resized-300x155.jpg 300w" sizes="(max-width: 342px) 100vw, 342px" />											
 			<h3>Apples</h3>		
