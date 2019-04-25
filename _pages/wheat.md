@@ -12,7 +12,7 @@ post_date: 2019-04-25 01:20:03
 										<img width="300" height="274" src="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-300x274.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-250x228.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background-100x91.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Wheat-background.png 347w" sizes="(max-width: 300px) 100vw, 300px" />											
 			<h3>ABOUT</h3>		
 		<p style="text-align: left;">Wheat is one of Australia’s major crops and Victoria has over 1.5 million hectares dedicated to the cultivation of the crop. Farmers believe that the framework for all winter crop production in Victoria is based on the principles and practice of successful wheat farming.</p>		
-			<h3>VARIETIES</h3>		
+			<h3>VARIETIES OF WHEAT</h3>		
 		<ol><li style="text-indent: -0.25in; text-align: left;">    Australian Hard </li><li style="text-indent: -0.25in; text-align: left;">    Australian Premium White </li><li style="text-indent: -0.25in; text-align: left;">      Australian Standard White</li><li style="text-indent: -0.25in; text-align: left;">    Australian Premium Durum </li><li style="text-indent: -0.25in; text-align: left;">      Australian Standard Noodle</li><li style="text-indent: -0.25in; text-align: left;">      Australian Premium Noodle</li><li style="text-indent: -0.25in; text-align: left;">    Australian Soft Feed</li></ol>		
 			<h3>CROP MANAGEMENT</h3>		
 			<h3>Soil Type & Suitability</h3>		
