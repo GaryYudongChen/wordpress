@@ -10,52 +10,21 @@ post_date: 2019-04-24 16:24:16
 ---
 <h1>Oranges</h1>		
 										<img width="300" height="269" src="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-300x269.png" alt="" srcset="http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-300x269.png 300w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-250x224.png 250w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized-100x90.png 100w, http://www.lumus.ga/wp-content/uploads/2019/04/Oranges-resized.png 350w" sizes="(max-width: 300px) 100vw, 300px" />											
-			<h3>Experience</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h5>2015 - Present</h5>		
-			<h3>Teach Studio NYC</h3>		
-			<h5>2013 - 2015</h5>		
-			<h3>BitBox Pro</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h5>2010 - 2013</h5>		
-			<h3>Freelance</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h3>About Me</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
-			<h3>Education</h3>		
-			<h5>2012</h5>		
-			<h3>UI & UX Course</h3>		
-			<h5>2011</h5>		
-			<h3>Print2Digital Course</h3>		
-			<h5>2009</h5>		
-			<h3>Royal College of Art
-</h3>		
-			<h3>Skills</h3>		
-				Photoshop
-									89%
-				WordPress
-									61%
-				Illustrator
-									71%
-				InDesign
-									50%
-				Html & CSS
-									85%
-			<h3>Contact</h3>		
-					<ul>
-							<li >
-										www.yourdomain.com
-									</li>
-								<li >
-										me@yourdomain.com
-									</li>
-								<li >
-										(354) 4458 9944  
-									</li>
-								<li >
-										(354) 5567 9900
-									</li>
-						</ul>
+			<h3>ABOUT</h3>		
+		<p style="text-align: left;">Apples are an antioxidant powerhouse with a greater antioxidant capacity than half a punnet of blueberries, a cup of strawberries or an orange. They are a great snack on the go and can even literally help you breathe easy and keep you feeling fuller for longer.</p><p style="text-align: left;">Victoria is the major growing area of apples in Australia. In 2015-16, Victoria produced 43 per cent of Australia’s apples.  Victorian orchards produced around 133,028 tonnes of apples in 2015-16 worth approximately $250 million.</p><p style="text-align: left;">The main growing regions are the Goulburn Valley, Yarra Valley, Harcourt and southern Victoria (including Mornington Peninsula and Gippsland).</p>		
+			<h3>VARIETIES OF APPLES</h3>		
+		<p style="text-align: left;">Australian Apples come in many delicious varieties. Twelve different varieties are grown in different areas of Australia and are picked at different times of the year.</p><p style="text-align: left;">The main varieties of apples grown in Victoria are:</p><ol><li style="text-align: left;">Cripps Pink (sold as Pink Lady)</li><li style="text-align: left;">Granny Smith</li><li style="text-align: left;">Royal Gala</li></ol>		
+			<h3>CROP MANAGEMENT</h3>		
+			<h3>Soil Type & Suitability</h3>		
+		<p style="text-align: left;">Apples trees can grow in a wide range of soils from medium textured clays to gravelly sands. Soils should be well drained. Wet soils lead to poor aeration and increased incidence of crown rot in apples (Phytophthora cactorum). Generally, rooting tends to be shallow, and wet soils will restrict development, resulting in poor anchorage of the tree and a reduced area of soil from which nutrients can be extracted.</p><p style="text-align: left;">Apples prefer a slightly acidic to neutral soil (pH between 5.8 and 7.0). Extreme soil pH values result in nutrient tie-up or toxicity and poor tree and fruit development. It is important to amend the pH in acidic soils by incorporating lime before planting.</p>		
+			<h3>Climatic Conditions</h3>		
+		<p style="text-align: left;">Apple trees require cool to cold winters and long, mild summers. The main apple growing regions in Australia have temperatures ranging from -2 to in excess of 45°C, however apples generally don’t like the higher temperatures.</p><p style="text-align: left;">Apples, as with many fruit trees, require a period of winter cold to break the tree’s dormancy which is measured at a certain number of hours below 7°C and referred to as the chilling requirement. The exact number of hours will depend on the variety, but apples generally require a minimum of 500-650 hours below 7°C.</p>		
+			<h3>Seeding Rate</h3>		
+		<p style="text-align: left;">The apple industry in Australia has moved to intensive apple orchard systems that have a range of 1,500 to 4,500 trees per hectare and are planted on dwarfing root stock. Intensive systems provide earlier commercial harvests (from the first year rather than the fourth or fifth), higher average yields and easier management. However, they do have higher establishment costs, higher maintenance of young trees and may require additional costs for infrastructure to protect crops from hail and birds.</p>		
+			<h3>Nutrition</h3>		
+		<p>Apple trees require a range of nutrients and elements from the soil for productive growth and many of these are already in adequate supply in Australian soils. However, there are several that require management: nitrogen, potassium, phosphorus, calcium, zinc, boron, magnesium and manganese.</p>		
+			<h3>DiSeases</h3>		
+		<ol><li style="text-align: left;"><strong>Apple Scab: </strong>Apple scab is present throughout Victoria, but is most serious in districts with high rainfall especially during spring. The disease can reduce the quality and size of fruit. It can also cause premature fruit drop, defoliation and poor development of fruit buds in the next season. Under favorable conditions and where control measures are not applied, total crop failure can occur.</li><li><strong>Armillaria root rot: </strong>Armillaria root rot, also known as the honey toadstool or bootlace fungus, is a widespread and often destructive disease that can affect an extremely wide range of plants.The main sources of infection in orchards are infected, dying trees within the orchard, or dead stumps or root pieces persisting in the ground from an earlier planting that was infected with the disease, or from the original vegetation.</li><li><strong>Fire Blight:</strong> Fire blight is a bacterial disease for which there is no single effective treatment.<p>Plants can become infected:</p><ul><li>through blossoms where the bacteria is transported by bees during pollination</li><li>through surface injuries caused by insect feeding, hail or mechanical damage.</li></ul></li></ol>		
 			<a href="#" role="button">
 						Other Crops
 					</a>
